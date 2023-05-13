@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository consists of some tutorials and templates for basic tasks in data analytics with PySpark. This is not an introduction to the tasks, but rather a tutorial to adapt to PySpark with prior knowledge in Python and data analytics. Topics include:
+This repository consists of some tutorials and templates for basic tasks in data analytics with PySpark. This is not an introduction to the tasks, but rather a tutorial to adapt to PySpark with prior knowledge in Python and data analytics. I am also not discussing how to set up your Hadoop/Spark cluster here. However, the easiest way is to use the Hortonworks HDP virtual machine (https://www.cloudera.com/downloads/hortonworks-sandbox.html). Topics included in this repository: 
 
 - Data processing pipeline
     - One hot encoder for categorical data
